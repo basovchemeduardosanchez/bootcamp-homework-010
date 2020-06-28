@@ -1,0 +1,4 @@
+# Do not include mas OS metadata 
+**/.DS_Store
+# ignore node_modules so that the moudules installed with npm install are not uploaded to the repo 
+node_modules
